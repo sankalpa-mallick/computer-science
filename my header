@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+#myheader {
+background-color:lightblue;
+color:black;
+padding:40px;
+text-align:center;
+}
+</style>
+</head>
+<body>
+<h1 id="my header">My header</h1>
+</body>
+</html>
